@@ -2,10 +2,9 @@
 
 测试
 
-1.fish_redux + bottomNavigationBar + PageView 多页面活性保存  
-2.android返回桌面函数  
-3.webview_flutter测试  
-4.*****
+_.android返回桌面函数  
+_.webview_flutter测试  
+_.*****
 
 
 ## Getting Started
